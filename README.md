@@ -64,4 +64,6 @@ Thanks to all our amazing [contributors](https://github.com/andrewtavis/check-in
   <img src="https://contrib.rocks/image?repo=andrewtavis/check-in-bot" />
 </a>
 
+<br />
+
 Happy community building!
