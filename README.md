@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://github.com/andrewtavis/check-in-bot"><img src="https://raw.githubusercontent.com/andrewtavis/check-in-bot/main/.github/resources/CheckInBotkGitHubBanner.png" width=1024 alt="Check in Bot logo"></a>
+  <a href="https://github.com/andrewtavis/check-in-bot"><img src="https://raw.githubusercontent.com/andrewtavis/check-in-bot/main/.github/resources/CheckInBotGitHubBanner.png" width=1024 alt="Check in Bot logo"></a>
 </div>
 
 [![issues](https://img.shields.io/github/issues/andrewtavis/check-in-bot?label=%20&logo=github)](https://github.com/andrewtavis/check-in-bot/issues)
