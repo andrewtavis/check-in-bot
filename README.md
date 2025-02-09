@@ -23,6 +23,8 @@ By default this action sends the following message to issues and pull requests t
 
 The default message is meant to remind the community around a project that there may be need to assist a new contributor, communicate that a review is taking some time and overall to facilitate communication between people who may have forgotten about something or need help.
 
+Happy community building!
+
 ## Example Config
 
 `Check in Bot` can be added to repositories using the following YAML template.
@@ -63,7 +65,3 @@ Thanks to all our amazing [contributors](https://github.com/andrewtavis/check-in
 <a href="https://github.com/andrewtavis/check-in-bot/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=andrewtavis/check-in-bot" />
 </a>
-
-<br />
-
-Happy community building!
