@@ -1,0 +1,28 @@
+name: "Check in Bot"
+description: "A GitHub Action to check in on issues and pull requests after a specified timespan of inactivity."
+author: "Andrew Tavis McAllister"
+branding:
+  icon: "heart"
+  color: "red"
+
+inputs:
+  repo-token:
+    description: "GitHub token to authorize API calls"
+    required: true
+  days-inactive:
+    description: 'Number of days of inactivity before checking in'
+    required: true
+    default: '14'
+  check-in-message:
+    description: 'The check in message for issues and PRs (supports markdown)'
+    required: true
+    default: |
+      Hello to the maintainers and watchers!
+
+      There have been no updates here for the last two weeks. There might be need for a check in :)
+
+      Thanks and hope all are well! ❤️
+
+runs:
+  using: 'node16'
+  main: 'dist/index.ts'
